@@ -1,7 +1,7 @@
 # youzan
 vue重构有赞商城
 
-## Lesson07
+
 
 ### 状态管理
 0. 使用vuex插件
